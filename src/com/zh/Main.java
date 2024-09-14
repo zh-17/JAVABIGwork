@@ -8,7 +8,7 @@ public class Main {
         Scene scene = new Scene();
         scene.initScene();
         scene.play();
-
+        Scene scene2 = new Scene();
 
     }
 }

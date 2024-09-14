@@ -12,5 +12,6 @@ public class Person extends Creature {
     @Override
     public void useArticle(Weapon weapon, Creature targetCreature,Scene scene) {
         weapon.useArticle(targetCreature,scene);
+        int a;
     }
 }

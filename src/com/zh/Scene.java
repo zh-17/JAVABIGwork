@@ -153,6 +153,7 @@ public class Scene {
     }
 
     public PersonSet getPersonSet() {
+        int a;
         return personSet;
     }
 }
